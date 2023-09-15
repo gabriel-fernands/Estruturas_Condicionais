@@ -1,0 +1,11 @@
+
+package Maratona.java;
+
+public class Aula05EstruturasCondicionais {
+    public static void main(String[] args) {
+        int age = 20;
+        if (age >= 18) {
+            System.out.println("autorizado a comprar bebida alcolica");
+        }
+    }
+}
